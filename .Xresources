@@ -1,0 +1,12 @@
+#define mybackgr #222222
+#define myforegr #cccccc
+#define myfont InputMono
+#define myfontsize 9
+#define mypadding 20
+
+#include ".xres.d/uxterm"
+#include ".xres.d/urxvt"
+#include ".xres.d/rofi"
+
+
+

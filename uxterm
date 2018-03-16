@@ -1,0 +1,11 @@
+UXTerm*background: mybackgr
+UXTerm*foreground: myforegr
+UXTerm*highlightColor: myforegr
+UXTerm*highlightTextColor: mybackgr
+UXTerm*cursorColor: myforegr
+UXTerm*cursorColor2: mybackgr
+UXTerm*font: xft:myfont:medium:size=myfontsize 
+UXTerm*boldFont: xft:myfont:size=myfontsize 
+UXTerm*italicFont: xft:myfont:italic:size=myfontsize 
+UXTerm*boldItalicFont: xft:myfont:bold:italic:size=myfontsize 
+UXTerm*internalBorder: mypadding

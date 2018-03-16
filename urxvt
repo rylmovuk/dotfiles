@@ -1,0 +1,18 @@
+URxvt*background: 	mybackgr
+URxvt*foreground: 	myforegr
+URxvt*highlightColor: 	myforegr
+URxvt*highlightTextColor: mybackgr
+URxvt*cursorColor: 	myforegr
+URxvt*cursorColor2: 	mybackgr
+URxvt*font: 		xft:myfont:size=myfontsize
+			!xft:PowerlineSymbols:size=1
+URxvt*boldFont: 	xft:myfont:bold:size=myfontsize 
+URxvt*italicFont: 	xft:myfont:italic:size=myfontsize 
+URxvt*boldItalicFont: 	xft:myfont:bold:italic:size=myfontsize 
+URxvt*internalBorder: 	mypadding
+
+URxvt*letterSpace: 	-1
+URxvt*scrollBar: 	False
+URxvt*scrollBar_right:	True
+URxvt*scrollBar_floating: True
+URxvt*scrollColor:	#444444
